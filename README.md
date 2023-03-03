@@ -11,12 +11,12 @@
 
 В репозитории собраны мои проекты:
 
-- Разработал бэкенд приложения для создания событий и поиска участников событий.  
+- Разработал бэкенд приложения для создания событий и поиска участников событий.   
   Стек: REST API service with Spring-Boot, JPA Hibernate, PostgreSQL, Java 11, Lombok, Docker  
   https://github.com/Rexsus-bit/java-explore-with-me 
   
 - Разработал бэкенд приложения для поиска вещей пользователей для сдачи и найма в аренду.  
-  Стек: REST API service with Spring-Boot, JPA Hibernate, PostgreSQL, Java 11, Lombok, Junit, MockMVC, Docker. 
+  Стек: REST API service with Spring-Boot, JPA Hibernate, PostgreSQL, Java 11, Lombok, Junit, MockMVC, Docker  
   https://github.com/Rexsus-bit/java-shareit/ 
   
 - Разработал бэкенд соцсети с возможностью оценки фильмов и алгоритмом подбора наиболее популярных фильмов.    
